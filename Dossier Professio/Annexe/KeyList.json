@@ -1,0 +1,1844 @@
+{
+  "total": 58,
+  "items": [
+    {
+      "id": 1,
+      "name": "AI-NFR-key8993-internal",
+      "label": "AI-NFR-internal",
+      "type": "internal",
+      "user_ranges": [
+        {
+          "start": "200",
+          "end": "260"
+        }
+      ],
+      "group_ranges": [
+        {
+          "start": "500",
+          "end": "510"
+        }
+      ],
+      "queue_ranges": [],
+      "conference_room_ranges": [
+        {
+          "start": "8000",
+          "end": "8100"
+        }
+      ],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "abdb4a8a-cf79-4315-a575-b71f50646c56",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/1"
+        }
+      ],
+      "contexts": [
+        {
+          "id": 3,
+          "name": "AI-NFR-key8993-to-extern",
+          "label": "AI-NFR-to-extern",
+          "links": [
+            {
+              "rel": "contexts",
+              "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "AI-NFR-key8993-from-extern",
+      "label": "AI-NFR-from-extern",
+      "type": "incall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [
+        {
+          "start": "0369060709",
+          "end": "0369060709",
+          "did_length": 10
+        },
+        {
+          "start": "0369064943",
+          "end": "0369064943",
+          "did_length": 10
+        },
+        {
+          "start": "0369205379",
+          "end": "0369205379",
+          "did_length": 10
+        },
+        {
+          "start": "0388774034",
+          "end": "0388774034",
+          "did_length": 10
+        },
+        {
+          "start": "0388774780",
+          "end": "0388774780",
+          "did_length": 10
+        },
+        {
+          "start": "0388775239",
+          "end": "0388775241",
+          "did_length": 10
+        },
+        {
+          "start": "0369247210",
+          "end": "0369247219",
+          "did_length": 10
+        }
+      ],
+      "description": null,
+      "tenant_uuid": "abdb4a8a-cf79-4315-a575-b71f50646c56",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/2"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 3,
+      "name": "AI-NFR-key8993-to-extern",
+      "label": "AI-NFR-to-extern",
+      "type": "outcall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "abdb4a8a-cf79-4315-a575-b71f50646c56",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/3"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 4,
+      "name": "AI-NFR-IT-key8993-from-extern",
+      "label": "AI-NFR-IT-key8993-from-extern",
+      "type": "incall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [
+        {
+          "start": "9990",
+          "end": "9999",
+          "did_length": 4
+        }
+      ],
+      "description": null,
+      "tenant_uuid": "abdb4a8a-cf79-4315-a575-b71f50646c56",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/4"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 14,
+      "name": "default-key-8273-internal",
+      "label": "default-internal",
+      "type": "internal",
+      "user_ranges": [
+        {
+          "start": "200",
+          "end": "250"
+        }
+      ],
+      "group_ranges": [
+        {
+          "start": "500",
+          "end": "520"
+        }
+      ],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "26c522e0-ba0f-4ff3-a4c6-4a06db07d0f8",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/14"
+        }
+      ],
+      "contexts": [
+        {
+          "id": 16,
+          "name": "default-key-8273-to-extern",
+          "label": "default-to-extern",
+          "links": [
+            {
+              "rel": "contexts",
+              "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "default-key-8273-from-extern",
+      "label": "default-from-extern",
+      "type": "incall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [
+        {
+          "start": "0387701603",
+          "end": "0387701603",
+          "did_length": 10
+        }
+      ],
+      "description": null,
+      "tenant_uuid": "26c522e0-ba0f-4ff3-a4c6-4a06db07d0f8",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/15"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 16,
+      "name": "default-key-8273-to-extern",
+      "label": "default-to-extern",
+      "type": "outcall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "26c522e0-ba0f-4ff3-a4c6-4a06db07d0f8",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/16"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 17,
+      "name": "default-key-9940-internal",
+      "label": "default-internal",
+      "type": "internal",
+      "user_ranges": [
+        {
+          "start": "200",
+          "end": "250"
+        }
+      ],
+      "group_ranges": [
+        {
+          "start": "500",
+          "end": "520"
+        }
+      ],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "7ef539a3-a614-447d-b812-f0eeb774c51c",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/17"
+        }
+      ],
+      "contexts": [
+        {
+          "id": 19,
+          "name": "default-key-9940-to-extern",
+          "label": "default-to-extern",
+          "links": [
+            {
+              "rel": "contexts",
+              "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "default-key-9940-from-extern",
+      "label": "default-from-extern",
+      "type": "incall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [
+        {
+          "start": "0388186782",
+          "end": "0388186782",
+          "did_length": 10
+        }
+      ],
+      "description": null,
+      "tenant_uuid": "7ef539a3-a614-447d-b812-f0eeb774c51c",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/18"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 19,
+      "name": "default-key-9940-to-extern",
+      "label": "default-to-extern",
+      "type": "outcall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "7ef539a3-a614-447d-b812-f0eeb774c51c",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/19"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 20,
+      "name": "default-key-4995-internal",
+      "label": "default-internal",
+      "type": "internal",
+      "user_ranges": [
+        {
+          "start": "200",
+          "end": "230"
+        }
+      ],
+      "group_ranges": [
+        {
+          "start": "300",
+          "end": "310"
+        }
+      ],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "c019f0a4-8947-4e99-bcd0-97d6a52b2077",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/20"
+        }
+      ],
+      "contexts": [
+        {
+          "id": 22,
+          "name": "default-key-4995-to-extern",
+          "label": "default-to-extern",
+          "links": [
+            {
+              "rel": "contexts",
+              "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "default-key-4995-from-extern",
+      "label": "default-from-extern",
+      "type": "incall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [
+        {
+          "start": "0354681515",
+          "end": "0354681515",
+          "did_length": 10
+        },
+        {
+          "start": "33354681515",
+          "end": "33354681515",
+          "did_length": 11
+        }
+      ],
+      "description": null,
+      "tenant_uuid": "c019f0a4-8947-4e99-bcd0-97d6a52b2077",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/21"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 22,
+      "name": "default-key-4995-to-extern",
+      "label": "default-to-extern",
+      "type": "outcall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "c019f0a4-8947-4e99-bcd0-97d6a52b2077",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/22"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 23,
+      "name": "default-key-1330-internal",
+      "label": "default-internal",
+      "type": "internal",
+      "user_ranges": [
+        {
+          "start": "200",
+          "end": "210"
+        }
+      ],
+      "group_ranges": [
+        {
+          "start": "500",
+          "end": "510"
+        }
+      ],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "2f3dc582-af6a-4388-8475-b10b73110464",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/23"
+        }
+      ],
+      "contexts": [
+        {
+          "id": 25,
+          "name": "default-key-1330-to-extern",
+          "label": "default-to-extern",
+          "links": [
+            {
+              "rel": "contexts",
+              "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "default-key-1330-from-extern",
+      "label": "default-from-extern",
+      "type": "incall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [
+        {
+          "start": "0388351609",
+          "end": "0388351609",
+          "did_length": 10
+        },
+        {
+          "start": "0388248094",
+          "end": "0388248098",
+          "did_length": 10
+        }
+      ],
+      "description": null,
+      "tenant_uuid": "2f3dc582-af6a-4388-8475-b10b73110464",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/24"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 25,
+      "name": "default-key-1330-to-extern",
+      "label": "default-to-extern",
+      "type": "outcall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "2f3dc582-af6a-4388-8475-b10b73110464",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/25"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 26,
+      "name": "default-key-9909-internal",
+      "label": "default-internal",
+      "type": "internal",
+      "user_ranges": [
+        {
+          "start": "210",
+          "end": "215"
+        }
+      ],
+      "group_ranges": [
+        {
+          "start": "500",
+          "end": "510"
+        }
+      ],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "02225d0b-4acf-4d00-8dbe-f1681a1df5c8",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/26"
+        }
+      ],
+      "contexts": [
+        {
+          "id": 28,
+          "name": "default-key-9909-to-extern",
+          "label": "default-to-extern",
+          "links": [
+            {
+              "rel": "contexts",
+              "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "default-key-9909-from-extern",
+      "label": "default-from-extern",
+      "type": "incall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [
+        {
+          "start": "0553291949",
+          "end": "0553291949",
+          "did_length": 10
+        }
+      ],
+      "description": null,
+      "tenant_uuid": "02225d0b-4acf-4d00-8dbe-f1681a1df5c8",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/27"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 28,
+      "name": "default-key-9909-to-extern",
+      "label": "default-to-extern",
+      "type": "outcall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "02225d0b-4acf-4d00-8dbe-f1681a1df5c8",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/28"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 29,
+      "name": "default-key-2643-internal",
+      "label": "default-internal",
+      "type": "internal",
+      "user_ranges": [
+        {
+          "start": "200",
+          "end": "210"
+        }
+      ],
+      "group_ranges": [
+        {
+          "start": "500",
+          "end": "505"
+        }
+      ],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "df6a6a76-bb75-4d10-bb27-2e515c77d40d",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/29"
+        }
+      ],
+      "contexts": [
+        {
+          "id": 31,
+          "name": "default-key-2643-to-extern",
+          "label": "default-to-extern",
+          "links": [
+            {
+              "rel": "contexts",
+              "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "default-key-2643-from-extern",
+      "label": "default-from-extern",
+      "type": "incall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [
+        {
+          "start": "0388061170",
+          "end": "0388061170",
+          "did_length": 10
+        }
+      ],
+      "description": null,
+      "tenant_uuid": "df6a6a76-bb75-4d10-bb27-2e515c77d40d",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/30"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 31,
+      "name": "default-key-2643-to-extern",
+      "label": "default-to-extern",
+      "type": "outcall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "df6a6a76-bb75-4d10-bb27-2e515c77d40d",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/31"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 32,
+      "name": "default-key-1945-internal",
+      "label": "default-internal",
+      "type": "internal",
+      "user_ranges": [
+        {
+          "start": "200",
+          "end": "220"
+        }
+      ],
+      "group_ranges": [
+        {
+          "start": "500",
+          "end": "505"
+        }
+      ],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "80fe5753-5b2c-4b41-b28d-0d7d2cd9a298",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/32"
+        }
+      ],
+      "contexts": [
+        {
+          "id": 34,
+          "name": "default-key-1945-to-extern",
+          "label": "default-to-extern",
+          "links": [
+            {
+              "rel": "contexts",
+              "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/34"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "default-key-1945-from-extern",
+      "label": "default-from-extern",
+      "type": "incall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [
+        {
+          "start": "0388742678",
+          "end": "0388742678",
+          "did_length": 10
+        },
+        {
+          "start": "0388744589",
+          "end": "0388744589",
+          "did_length": 10
+        }
+      ],
+      "description": null,
+      "tenant_uuid": "80fe5753-5b2c-4b41-b28d-0d7d2cd9a298",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/33"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 34,
+      "name": "default-key-1945-to-extern",
+      "label": "default-to-extern",
+      "type": "outcall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "80fe5753-5b2c-4b41-b28d-0d7d2cd9a298",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/34"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 35,
+      "name": "default-key-3219-internal",
+      "label": "default-internal",
+      "type": "internal",
+      "user_ranges": [
+        {
+          "start": "200",
+          "end": "250"
+        }
+      ],
+      "group_ranges": [
+        {
+          "start": "500",
+          "end": "510"
+        }
+      ],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "ed7de0e4-0774-4ded-bc7b-3b7a748ace64",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/35"
+        }
+      ],
+      "contexts": [
+        {
+          "id": 37,
+          "name": "default-key-3219-to-extern",
+          "label": "default-to-extern",
+          "links": [
+            {
+              "rel": "contexts",
+              "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/37"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "default-key-3219-from-extern",
+      "label": "default-from-extern",
+      "type": "incall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [
+        {
+          "start": "0388261833",
+          "end": "0388261833",
+          "did_length": 10
+        },
+        {
+          "start": "0388283867",
+          "end": "0388283867",
+          "did_length": 10
+        },
+        {
+          "start": "0979980313",
+          "end": "0979980313",
+          "did_length": 10
+        }
+      ],
+      "description": null,
+      "tenant_uuid": "ed7de0e4-0774-4ded-bc7b-3b7a748ace64",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/36"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 37,
+      "name": "default-key-3219-to-extern",
+      "label": "default-to-extern",
+      "type": "outcall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "ed7de0e4-0774-4ded-bc7b-3b7a748ace64",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/37"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 38,
+      "name": "default-key-3315-internal",
+      "label": "default-internal",
+      "type": "internal",
+      "user_ranges": [
+        {
+          "start": "200",
+          "end": "210"
+        }
+      ],
+      "group_ranges": [
+        {
+          "start": "500",
+          "end": "505"
+        }
+      ],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "732c462d-8dfa-4f53-975a-f2b4356fd050",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/38"
+        }
+      ],
+      "contexts": [
+        {
+          "id": 40,
+          "name": "default-key-3315-to-extern",
+          "label": "default-to-extern",
+          "links": [
+            {
+              "rel": "contexts",
+              "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/40"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "default-key-3315-from-extern",
+      "label": "default-from-extern",
+      "type": "incall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [
+        {
+          "start": "0388296744",
+          "end": "0388296744",
+          "did_length": 10
+        },
+        {
+          "start": "0388308430",
+          "end": "0388308439",
+          "did_length": 10
+        },
+        {
+          "start": "0979980314",
+          "end": "0979980314",
+          "did_length": 10
+        }
+      ],
+      "description": null,
+      "tenant_uuid": "732c462d-8dfa-4f53-975a-f2b4356fd050",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/39"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 40,
+      "name": "default-key-3315-to-extern",
+      "label": "default-to-extern",
+      "type": "outcall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "732c462d-8dfa-4f53-975a-f2b4356fd050",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/40"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 41,
+      "name": "default-key-6390-internal",
+      "label": "default-internal",
+      "type": "internal",
+      "user_ranges": [
+        {
+          "start": "200",
+          "end": "210"
+        }
+      ],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "8fce3996-798a-4692-a92a-0d4371ac9a69",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/41"
+        }
+      ],
+      "contexts": [
+        {
+          "id": 43,
+          "name": "default-key-6390-to-extern",
+          "label": "default-to-extern",
+          "links": [
+            {
+              "rel": "contexts",
+              "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/43"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "default-key-6390-from-extern",
+      "label": "default-from-extern",
+      "type": "incall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [
+        {
+          "start": "0367680346",
+          "end": "0367680346",
+          "did_length": 10
+        }
+      ],
+      "description": null,
+      "tenant_uuid": "8fce3996-798a-4692-a92a-0d4371ac9a69",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/42"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 43,
+      "name": "default-key-6390-to-extern",
+      "label": "default-to-extern",
+      "type": "outcall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "8fce3996-798a-4692-a92a-0d4371ac9a69",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/43"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 44,
+      "name": "default-key-4802-internal",
+      "label": "default-internal",
+      "type": "internal",
+      "user_ranges": [
+        {
+          "start": "200",
+          "end": "210"
+        }
+      ],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "39533aa5-7c7c-4e7c-8915-47a9750d5bd1",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/44"
+        }
+      ],
+      "contexts": [
+        {
+          "id": 46,
+          "name": "default-key-4802-to-extern",
+          "label": "default-to-extern",
+          "links": [
+            {
+              "rel": "contexts",
+              "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "default-key-4802-from-extern",
+      "label": "default-from-extern",
+      "type": "incall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [
+        {
+          "start": "0979980314",
+          "end": "0979980314",
+          "did_length": 10
+        }
+      ],
+      "description": null,
+      "tenant_uuid": "39533aa5-7c7c-4e7c-8915-47a9750d5bd1",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/45"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 46,
+      "name": "default-key-4802-to-extern",
+      "label": "default-to-extern",
+      "type": "outcall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "39533aa5-7c7c-4e7c-8915-47a9750d5bd1",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/46"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 47,
+      "name": "default-key-3467-internal",
+      "label": "default-internal",
+      "type": "internal",
+      "user_ranges": [
+        {
+          "start": "8000",
+          "end": "8020"
+        },
+        {
+          "start": "200",
+          "end": "250"
+        }
+      ],
+      "group_ranges": [
+        {
+          "start": "500",
+          "end": "520"
+        }
+      ],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "dd0da545-10a2-42f5-ad29-82442f4eaf4b",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/47"
+        }
+      ],
+      "contexts": [
+        {
+          "id": 49,
+          "name": "default-key-3467-to-extern",
+          "label": "default-to-extern",
+          "links": [
+            {
+              "rel": "contexts",
+              "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/49"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "default-key-3467-from-extern",
+      "label": "default-from-extern",
+      "type": "incall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [
+        {
+          "start": "0388595000",
+          "end": "0388595019",
+          "did_length": 10
+        }
+      ],
+      "description": null,
+      "tenant_uuid": "dd0da545-10a2-42f5-ad29-82442f4eaf4b",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/48"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 49,
+      "name": "default-key-3467-to-extern",
+      "label": "default-to-extern",
+      "type": "outcall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "dd0da545-10a2-42f5-ad29-82442f4eaf4b",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/49"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 50,
+      "name": "default-key-3761-internal",
+      "label": "default-internal",
+      "type": "internal",
+      "user_ranges": [
+        {
+          "start": "200",
+          "end": "220"
+        }
+      ],
+      "group_ranges": [
+        {
+          "start": "500",
+          "end": "510"
+        }
+      ],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "b2478853-3dad-4fa5-afa5-c3c63d54b76a",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/50"
+        }
+      ],
+      "contexts": [
+        {
+          "id": 52,
+          "name": "default-key-3761-to-extern",
+          "label": "default-to-extern",
+          "links": [
+            {
+              "rel": "contexts",
+              "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "default-key-3761-from-extern",
+      "label": "default-from-extern",
+      "type": "incall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [
+        {
+          "start": "0367820204",
+          "end": "0367820205",
+          "did_length": 10
+        }
+      ],
+      "description": null,
+      "tenant_uuid": "b2478853-3dad-4fa5-afa5-c3c63d54b76a",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/51"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 52,
+      "name": "default-key-3761-to-extern",
+      "label": "default-to-extern",
+      "type": "outcall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "b2478853-3dad-4fa5-afa5-c3c63d54b76a",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/52"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 53,
+      "name": "default-key-3604-internal",
+      "label": "default-internal",
+      "type": "internal",
+      "user_ranges": [
+        {
+          "start": "200",
+          "end": "220"
+        }
+      ],
+      "group_ranges": [
+        {
+          "start": "500",
+          "end": "510"
+        }
+      ],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "da10561c-301e-4fd6-b69b-d4e828eaff2b",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/53"
+        }
+      ],
+      "contexts": [
+        {
+          "id": 55,
+          "name": "default-key-3604-to-extern",
+          "label": "default-to-extern",
+          "links": [
+            {
+              "rel": "contexts",
+              "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/55"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "default-key-3604-from-extern",
+      "label": "default-from-extern",
+      "type": "incall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [
+        {
+          "start": "0367880082",
+          "end": "0367880082",
+          "did_length": 10
+        }
+      ],
+      "description": null,
+      "tenant_uuid": "da10561c-301e-4fd6-b69b-d4e828eaff2b",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/54"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 55,
+      "name": "default-key-3604-to-extern",
+      "label": "default-to-extern",
+      "type": "outcall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "da10561c-301e-4fd6-b69b-d4e828eaff2b",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/55"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 56,
+      "name": "default-key-8114-internal",
+      "label": "default-internal",
+      "type": "internal",
+      "user_ranges": [
+        {
+          "start": "200",
+          "end": "220"
+        }
+      ],
+      "group_ranges": [
+        {
+          "start": "500",
+          "end": "510"
+        }
+      ],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "f5cfc3a7-d1e7-46f1-9124-081c872b2e56",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/56"
+        }
+      ],
+      "contexts": [
+        {
+          "id": 58,
+          "name": "default-key-8114-to-extern",
+          "label": "default-to-extern",
+          "links": [
+            {
+              "rel": "contexts",
+              "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/58"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "default-key-8114-from-extern",
+      "label": "default-from-extern",
+      "type": "incall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [
+        {
+          "start": "0389491838",
+          "end": "0389491838",
+          "did_length": 10
+        },
+        {
+          "start": "0389294240",
+          "end": "0389294244",
+          "did_length": 10
+        }
+      ],
+      "description": null,
+      "tenant_uuid": "f5cfc3a7-d1e7-46f1-9124-081c872b2e56",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/57"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 58,
+      "name": "default-key-8114-to-extern",
+      "label": "default-to-extern",
+      "type": "outcall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "f5cfc3a7-d1e7-46f1-9124-081c872b2e56",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/58"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 59,
+      "name": "default-key-6055-internal",
+      "label": "default-internal",
+      "type": "internal",
+      "user_ranges": [
+        {
+          "start": "200",
+          "end": "220"
+        }
+      ],
+      "group_ranges": [
+        {
+          "start": "500",
+          "end": "510"
+        }
+      ],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "bb408f9a-b518-4dc9-858f-60a7c5a4a460",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/59"
+        }
+      ],
+      "contexts": [
+        {
+          "id": 61,
+          "name": "default-key-6055-to-extern",
+          "label": "default-to-extern",
+          "links": [
+            {
+              "rel": "contexts",
+              "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/61"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "default-key-6055-from-extern",
+      "label": "default-from-extern",
+      "type": "incall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [
+        {
+          "start": "0367820202",
+          "end": "0367820203",
+          "did_length": 10
+        }
+      ],
+      "description": null,
+      "tenant_uuid": "bb408f9a-b518-4dc9-858f-60a7c5a4a460",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/60"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 61,
+      "name": "default-key-6055-to-extern",
+      "label": "default-to-extern",
+      "type": "outcall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "bb408f9a-b518-4dc9-858f-60a7c5a4a460",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/61"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 62,
+      "name": "default-key-393-internal",
+      "label": "default-internal",
+      "type": "internal",
+      "user_ranges": [
+        {
+          "start": "200",
+          "end": "220"
+        }
+      ],
+      "group_ranges": [
+        {
+          "start": "500",
+          "end": "510"
+        }
+      ],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "698325d8-d018-4c91-8bef-d46f1f627e15",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/62"
+        }
+      ],
+      "contexts": [
+        {
+          "id": 64,
+          "name": "default-key-393-to-extern",
+          "label": "default-to-extern",
+          "links": [
+            {
+              "rel": "contexts",
+              "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/64"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "default-key-393-from-extern",
+      "label": "default-from-extern",
+      "type": "incall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [
+        {
+          "start": "0367820010",
+          "end": "0367820010",
+          "did_length": 10
+        },
+        {
+          "start": "0367820206",
+          "end": "0367820208",
+          "did_length": 10
+        }
+      ],
+      "description": null,
+      "tenant_uuid": "698325d8-d018-4c91-8bef-d46f1f627e15",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/63"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 64,
+      "name": "default-key-393-to-extern",
+      "label": "default-to-extern",
+      "type": "outcall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "698325d8-d018-4c91-8bef-d46f1f627e15",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/64"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 65,
+      "name": "default-key-9135-internal",
+      "label": "default-internal",
+      "type": "internal",
+      "user_ranges": [
+        {
+          "start": "8000",
+          "end": "8030"
+        },
+        {
+          "start": "9990",
+          "end": "9990"
+        }
+      ],
+      "group_ranges": [
+        {
+          "start": "500",
+          "end": "540"
+        }
+      ],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "4ecd57c2-2812-4107-a4a6-07922586ff07",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/65"
+        }
+      ],
+      "contexts": [
+        {
+          "id": 67,
+          "name": "default-key-9135-to-extern",
+          "label": "default-to-extern",
+          "links": [
+            {
+              "rel": "contexts",
+              "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/67"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "default-key-9135-from-extern",
+      "label": "default-from-extern",
+      "type": "incall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [
+        {
+          "start": "0367681100",
+          "end": "0367681105",
+          "did_length": 10
+        },
+        {
+          "start": "0367684100",
+          "end": "0367684104",
+          "did_length": 10
+        }
+      ],
+      "description": null,
+      "tenant_uuid": "4ecd57c2-2812-4107-a4a6-07922586ff07",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/66"
+        }
+      ],
+      "contexts": []
+    },
+    {
+      "id": 67,
+      "name": "default-key-9135-to-extern",
+      "label": "default-to-extern",
+      "type": "outcall",
+      "user_ranges": [],
+      "group_ranges": [],
+      "queue_ranges": [],
+      "conference_room_ranges": [],
+      "incall_ranges": [],
+      "description": null,
+      "tenant_uuid": "4ecd57c2-2812-4107-a4a6-07922586ff07",
+      "enabled": true,
+      "links": [
+        {
+          "rel": "contexts",
+          "href": "https://autocom-ai.alliance-informatique.fr/api/confd/1.1/contexts/67"
+        }
+      ],
+      "contexts": []
+    }
+  ]
+}

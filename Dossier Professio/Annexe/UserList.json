@@ -1,0 +1,306 @@
+{ 
+  "filtered": 20,
+  "total": 20,
+  "items": [
+    {
+      "name": "Achamat - default",
+      "parent_uuid": "c1df31dc-5cbd-49f3-b5e1-9f1ec211570e",
+      "phone": null,
+      "uuid": "4ecd57c2-2812-4107-a4a6-07922586ff07",
+      "contact": null,
+      "address": {
+        "city": null,
+        "country": null,
+        "line_1": null,
+        "line_2": null,
+        "zip_code": null,
+        "state": null
+      }
+    },
+    {
+      "name": "AD-57 - default",
+      "parent_uuid": "c1df31dc-5cbd-49f3-b5e1-9f1ec211570e",
+      "phone": null,
+      "uuid": "26c522e0-ba0f-4ff3-a4c6-4a06db07d0f8",
+      "contact": null,
+      "address": {
+        "city": null,
+        "country": null,
+        "line_1": null,
+        "line_2": null,
+        "zip_code": null,
+        "state": null
+      }
+    },
+    {
+      "name": "Adequasol-67 - default",
+      "parent_uuid": "c1df31dc-5cbd-49f3-b5e1-9f1ec211570e",
+      "phone": null,
+      "uuid": "7ef539a3-a614-447d-b812-f0eeb774c51c",
+      "contact": null,
+      "address": {
+        "city": null,
+        "country": null,
+        "line_1": null,
+        "line_2": null,
+        "zip_code": null,
+        "state": null
+      }
+    },
+    {
+      "name": "AI-NFR",
+      "parent_uuid": "c1df31dc-5cbd-49f3-b5e1-9f1ec211570e",
+      "phone": null,
+      "uuid": "abdb4a8a-cf79-4315-a575-b71f50646c56",
+      "contact": null,
+      "address": {
+        "city": null,
+        "country": null,
+        "line_1": null,
+        "line_2": null,
+        "zip_code": null,
+        "state": null
+      }
+    },
+    {
+      "name": "BB9-54 - default",
+      "parent_uuid": "c1df31dc-5cbd-49f3-b5e1-9f1ec211570e",
+      "phone": null,
+      "uuid": "c019f0a4-8947-4e99-bcd0-97d6a52b2077",
+      "contact": null,
+      "address": {
+        "city": null,
+        "country": null,
+        "line_1": null,
+        "line_2": null,
+        "zip_code": null,
+        "state": null
+      }
+    },
+    {
+      "name": "CCES-67 - default",
+      "parent_uuid": "c1df31dc-5cbd-49f3-b5e1-9f1ec211570e",
+      "phone": null,
+      "uuid": "2f3dc582-af6a-4388-8475-b10b73110464",
+      "contact": null,
+      "address": {
+        "city": null,
+        "country": null,
+        "line_1": null,
+        "line_2": null,
+        "zip_code": null,
+        "state": null
+      }
+    },
+    {
+      "name": "JLG - default",
+      "parent_uuid": "c1df31dc-5cbd-49f3-b5e1-9f1ec211570e",
+      "phone": null,
+      "uuid": "8fce3996-798a-4692-a92a-0d4371ac9a69",
+      "contact": null,
+      "address": {
+        "city": null,
+        "country": null,
+        "line_1": null,
+        "line_2": null,
+        "zip_code": null,
+        "state": null
+      }
+    },
+    {
+      "name": "La-Cig-Four - default",
+      "parent_uuid": "c1df31dc-5cbd-49f3-b5e1-9f1ec211570e",
+      "phone": null,
+      "uuid": "02225d0b-4acf-4d00-8dbe-f1681a1df5c8",
+      "contact": null,
+      "address": {
+        "city": null,
+        "country": null,
+        "line_1": null,
+        "line_2": null,
+        "zip_code": null,
+        "state": null
+      }
+    },
+    {
+      "name": "master",
+      "parent_uuid": "c1df31dc-5cbd-49f3-b5e1-9f1ec211570e",
+      "phone": null,
+      "uuid": "c1df31dc-5cbd-49f3-b5e1-9f1ec211570e",
+      "contact": null,
+      "address": {
+        "city": null,
+        "country": null,
+        "line_1": null,
+        "line_2": null,
+        "zip_code": null,
+        "state": null
+      }
+    },
+    {
+      "name": "Paper-Team - default",
+      "parent_uuid": "c1df31dc-5cbd-49f3-b5e1-9f1ec211570e",
+      "phone": null,
+      "uuid": "80fe5753-5b2c-4b41-b28d-0d7d2cd9a298",
+      "contact": null,
+      "address": {
+        "city": null,
+        "country": null,
+        "line_1": null,
+        "line_2": null,
+        "zip_code": null,
+        "state": null
+      }
+    },
+    {
+      "name": "Pharma-Soleil - default",
+      "parent_uuid": "c1df31dc-5cbd-49f3-b5e1-9f1ec211570e",
+      "phone": null,
+      "uuid": "732c462d-8dfa-4f53-975a-f2b4356fd050",
+      "contact": null,
+      "address": {
+        "city": null,
+        "country": null,
+        "line_1": null,
+        "line_2": null,
+        "zip_code": null,
+        "state": null
+      }
+    },
+    {
+      "name": "Pharm-Maillon - default",
+      "parent_uuid": "c1df31dc-5cbd-49f3-b5e1-9f1ec211570e",
+      "phone": null,
+      "uuid": "ed7de0e4-0774-4ded-bc7b-3b7a748ace64",
+      "contact": null,
+      "address": {
+        "city": null,
+        "country": null,
+        "line_1": null,
+        "line_2": null,
+        "zip_code": null,
+        "state": null
+      }
+    },
+    {
+      "name": "Pisci-Rhin - default",
+      "parent_uuid": "c1df31dc-5cbd-49f3-b5e1-9f1ec211570e",
+      "phone": null,
+      "uuid": "df6a6a76-bb75-4d10-bb27-2e515c77d40d",
+      "contact": null,
+      "address": {
+        "city": null,
+        "country": null,
+        "line_1": null,
+        "line_2": null,
+        "zip_code": null,
+        "state": null
+      }
+    },
+    {
+      "name": "Satis_Proprete - default",
+      "parent_uuid": "c1df31dc-5cbd-49f3-b5e1-9f1ec211570e",
+      "phone": null,
+      "uuid": "f5cfc3a7-d1e7-46f1-9124-081c872b2e56",
+      "contact": null,
+      "address": {
+        "city": null,
+        "country": null,
+        "line_1": null,
+        "line_2": null,
+        "zip_code": null,
+        "state": null
+      }
+    },
+    {
+      "name": "Satis_Sante - default",
+      "parent_uuid": "c1df31dc-5cbd-49f3-b5e1-9f1ec211570e",
+      "phone": null,
+      "uuid": "bb408f9a-b518-4dc9-858f-60a7c5a4a460",
+      "contact": null,
+      "address": {
+        "city": null,
+        "country": null,
+        "line_1": null,
+        "line_2": null,
+        "zip_code": null,
+        "state": null
+      }
+    },
+    {
+      "name": "Satis_TT_Colmar_Nord - default",
+      "parent_uuid": "c1df31dc-5cbd-49f3-b5e1-9f1ec211570e",
+      "phone": null,
+      "uuid": "b2478853-3dad-4fa5-afa5-c3c63d54b76a",
+      "contact": null,
+      "address": {
+        "city": null,
+        "country": null,
+        "line_1": null,
+        "line_2": null,
+        "zip_code": null,
+        "state": null
+      }
+    },
+    {
+      "name": "Satis_TT_Immo - default",
+      "parent_uuid": "c1df31dc-5cbd-49f3-b5e1-9f1ec211570e",
+      "phone": null,
+      "uuid": "da10561c-301e-4fd6-b69b-d4e828eaff2b",
+      "contact": null,
+      "address": {
+        "city": null,
+        "country": null,
+        "line_1": null,
+        "line_2": null,
+        "zip_code": null,
+        "state": null
+      }
+    },
+    {
+      "name": "Satis_TT_Sainte_Croix - default",
+      "parent_uuid": "c1df31dc-5cbd-49f3-b5e1-9f1ec211570e",
+      "phone": null,
+      "uuid": "698325d8-d018-4c91-8bef-d46f1f627e15",
+      "contact": null,
+      "address": {
+        "city": null,
+        "country": null,
+        "line_1": null,
+        "line_2": null,
+        "zip_code": null,
+        "state": null
+      }
+    },
+    {
+      "name": "Test Trunk 2 - default",
+      "parent_uuid": "c1df31dc-5cbd-49f3-b5e1-9f1ec211570e",
+      "phone": null,
+      "uuid": "39533aa5-7c7c-4e7c-8915-47a9750d5bd1",
+      "contact": null,
+      "address": {
+        "city": null,
+        "country": null,
+        "line_1": null,
+        "line_2": null,
+        "zip_code": null,
+        "state": null
+      }
+    },
+    {
+      "name": "Weinmann - default",
+      "parent_uuid": "c1df31dc-5cbd-49f3-b5e1-9f1ec211570e",
+      "phone": null,
+      "uuid": "dd0da545-10a2-42f5-ad29-82442f4eaf4b",
+      "contact": null,
+      "address": {
+        "city": null,
+        "country": null,
+        "line_1": null,
+        "line_2": null,
+        "zip_code": null,
+        "state": null
+      }
+    }
+  ]
+}
